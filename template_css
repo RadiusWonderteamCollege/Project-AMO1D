@@ -1,0 +1,74 @@
+Project-AMO1D
+=============
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+body{
+	background: #800000;  
+}
+
+h1{
+	color: #FFFFFF;
+	padding: 30px;
+	padding-left: 16px; 
+}
+
+header li{
+	font-size: 20px;
+	display: inline;
+	margin-left: 15px;
+	padding: 10px;
+	padding-top: 11px; 
+	background-color: #FFFFFF;
+	color: #800000;
+/*	font-family: 'open Sans'; */
+}
+
+
+ul{
+	list-style-type: none; 
+}
+
+h3 {
+	display: inline;
+}
+
+/*Footer*/
+.openingstijden {
+	width: 200px;
+	float: left;
+}
+
+
+.openingstijden ul{
+	font-size: 15px;
+	display: inline;
+}
+	
+.adres{
+	font-size: 15px;
+	width: 200px;
+	float: left;
+}
+
+footer {
+	margin-top: 100px;
+	color: #F5DEB3;
+}
+
+h4{
+	display: inline;
+
+	color: #800000;
+	border: solid 2px;
+	padding: 10px;
+	background: #FFFFFF;
+	float: down;
+}
